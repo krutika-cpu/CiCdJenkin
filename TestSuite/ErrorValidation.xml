@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite  name="TestSuite">
+	<listeners>
+		<listener class-name ="Selenium.TestComponents.Listners"/>
+	</listeners>
+
+  <test thread-count="5" name="ErrorValidationTests">
+    <classes>
+      <class name="Selenium.test.ErrorValidationTests"/>
+    </classes>
+  </test> <!-- Test -->
+    
+</suite> <!-- Suite -->
