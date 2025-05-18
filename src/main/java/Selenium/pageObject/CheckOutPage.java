@@ -10,7 +10,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import Selenium.AbstractComponents.AbstractComponents;
-
+//19may
 
 public class CheckOutPage extends AbstractComponents {
 	
